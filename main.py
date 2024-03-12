@@ -13,6 +13,6 @@ class Mlops:
 		self.totalStudents=self.totalStudents - 1
 
 	def getClassName(self):
-		return "Machine Leraning Opertaions CS-B"
+		return "Machine Leraning Opertaions CS-B Task3"
 
 
