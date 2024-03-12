@@ -20,7 +20,7 @@ pipeline {
         stage('Run tests') {
             steps {
                 // Execute the tests
-                bat 'pytest test.py'
+                bat 'python test.py'
             }
         }
 
